@@ -8,6 +8,6 @@ if "pipeline" not in st.session_state:
     st.session_state["pipeline"].to("cuda")
 
 if prompt := st.text_input("Prompt"):
-    with st.spinner("Generating..."):
+    with st.spinner("Painting with pixels..."):
         img = st.session_state["pipeline"](prompt)
         st.image(img[0], use_column_width=True)
