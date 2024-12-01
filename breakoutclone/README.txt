@@ -13,6 +13,13 @@ You need to move the paddle flexibly, control the direction of the ball accurate
 Are you ready for the challenge? 
 Join Gio and help him win in this pineapple pizza apocalypse and defend the glory of pizza!
 
+Group member:
+24055402g JiangHan
+24061876g Huang linzhao
+24071723g Yangshinan
+
+
+
 
 pip install:
 

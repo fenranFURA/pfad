@@ -1,0 +1,42 @@
+Programming Team Weekly Progress Log
+Project Name: Pineapple Apocalypse
+Team members: 24055402g JiangHan
+24061876g huang linzhao
+24071723g Yang Shinan
+
+Week 1 | Creative Design and Brainstorming
+Date: October 28, 2024 - November 4, 2024
+Work Overview:
+Project analysis: brainstorming, focusing on project ideas, defining the functional scope of the project, and completing the division of labor.
+Problems: Finding the python libraries needed to build a complete game.
+
+Week 2 | Project Kickoff and Art Design
+Date: November 4, 2024 - November 10, 2024
+Work Overview:
+Technical: Main program code writing. Use pygame to realize the game running, initially build out the structure of the brick playing mini-game.
+ART DESIGN: Finished defining the art style.
+Problems encountered:
+Problems with how the game start and end video playback is handled.
+Next week's plan:
+Modify bugs and add fun. Find a way to play the video.
+
+Week 3 | Overall Game Improvement
+Date: November 11, 2024 - November 17, 2024
+Work Overview:
+Module development: restart & return to homepage mechanics.
+Art Design: Finish designing and creating videos for victory and defeat.
+Testing: Initial testing of the overall operation of the game.
+
+Week 4 | Functionality Testing and Optimization
+Date: November 18, 2024 - November 24, 2024
+Overview of work:
+Functionality testing: Conduct comprehensive functionality testing of the completed modules and fix any bugs found.
+Performance optimization: optimize game performance based on test feedback.
+Design Update: Update the design of the project's small boards, including buttons, backgrounds, etc.
+
+Week 5 | Advanced Functional Development and Final Testing
+Date: November 25, 2024 - December 1, 2024
+Work Overview:
+Advanced features: implemented and tested advanced features such as random drops and receiver board resizing.
+Add sound effects: created and added game sound effects.
+Final testing: optimized game performance based on final testing feedback.
